@@ -24,3 +24,4 @@ http.createServer(function (req, res) {
 }).listen(process.env.PORT || 8080);
 
 console.log("listening...");
+console.log("listening...");
