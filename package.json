@@ -1,0 +1,33 @@
+{
+  "name": "pbnodetest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "~0.2.9",
+    "azure": "https://github.com/WindowsAzure/azure-sdk-for-node/tarball/v0.6.7-zumo",
+    "dpush": "~0.2.0",
+    "mpns": "~2.0.1",
+    "oauth": "~0.9.8",
+    "pusher": "~0.1.2",
+    "request": "~2.9.152",
+    "sax": "~0.5.1",
+    "sendgrid": "~0.2.4",
+    "twilio": "~1.4.0",
+    "underscore": "~1.4.3",
+    "underscore.string": "~2.3.1",
+    "wns": "~0.5.3",
+    "xml2js": "~0.2.2",
+    "xmlbuilder": "~0.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://pbatum@pbnodetest.scm.azurewebsites.net:443/pbnodetest.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
